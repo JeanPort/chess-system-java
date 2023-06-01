@@ -5,9 +5,6 @@ public class Position {
 	private Integer row;
 	private Integer colum;
 	
-	public Position() {
-	}
-	
 	public Position(Integer raw, Integer colum) {
 		this.row = raw;
 		this.colum = colum;
